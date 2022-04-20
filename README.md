@@ -1,5 +1,5 @@
  # Module | Squad
->**Squad**  - позволяет создать свой сквад и быть админом бота.
+>**Squad**  - позволяет создать свой сквад и быть помощником бота.
 ___
 # Навигация 
 1. [**Переменная**](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5)
